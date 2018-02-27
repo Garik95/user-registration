@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Garik95/user-registration/issues"
   },
-  "homepage": "https://github.com/Garik95/user-registration#readme"
+  "homepage": "https://github.com/Garik95/user-registration#readme",
+  "dependencies": {
+    "mongodb": "^2.2.16",
+    "telebot": "^1.2.3"
+  }
 }
