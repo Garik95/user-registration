@@ -1,0 +1,19 @@
+{
+  "name": "user-reg",
+  "version": "1.0.0",
+  "description": "User registration bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garik95/user-registration.git"
+  },
+  "author": "Garik Nurmurodoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Garik95/user-registration/issues"
+  },
+  "homepage": "https://github.com/Garik95/user-registration#readme"
+}
