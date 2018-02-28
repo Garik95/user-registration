@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Garik95/user-registration#readme",
   "dependencies": {
+    "md5": "^2.2.1",
     "mongodb": "^2.2.16",
     "telebot": "^1.2.3"
   }
